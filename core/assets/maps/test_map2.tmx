@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="4">
+ <tileset firstgid="1" source="main.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <objectgroup id="2" name="house">
+  <object id="3" x="884.667" y="226.911">
+   <polygon points="0,0 11.4892,71.8074 100.53,74.6797 114.892,235.528 112.02,310.208 -275.741,310.208 -278.613,244.145 -295.847,244.145 -298.719,28.723 -264.251,2.8723"/>
+  </object>
+ </objectgroup>
+</map>
